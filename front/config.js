@@ -1,7 +1,7 @@
 // Configuration pour CINEHOME Frontend
 const CONFIG = {
-  // URL do backend - servidor remoto
-  API_BASE_URL: 'https://aula-3-p5zh.onrender.com',
+  // URL do backend - servidor remoto CINEHOME
+  API_BASE_URL: 'https://backend-frontend-2.onrender.com',
   
   // Para voltar ao servidor local, altere para:
   // API_BASE_URL: 'http://localhost:3001',
